@@ -1,0 +1,20 @@
+/* Header.module.css */
+.header {
+    position: fixed; /* Se mantiene en la parte superior mientras te desplazas */
+    top: 0;
+    left: 0;
+    width: 100%; /* Asegura que ocupe el ancho completo de la página */
+    background-color: lightblue;
+    padding: 20px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1); /* Sombra opcional */
+    z-index: 1000; /* Mantén el encabezado por encima de otros elementos */
+
+  }
+  
+  .h1 {
+
+    color: darkblue;
+    font-size: 24px;
+  }
+  
+  

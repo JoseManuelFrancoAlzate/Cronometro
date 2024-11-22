@@ -1,0 +1,18 @@
+.saludo{
+ color: red;
+}
+
+.h1 {
+    display: flex;
+    border-radius: 500px;
+    border: 10px solid rgb(255, 174, 0);
+    color: blue;
+    width:250px;
+    height:250px;
+    justify-content: center;
+    align-items: center;
+}
+
+.divPomodoro{
+    margin-top: 120px;
+}

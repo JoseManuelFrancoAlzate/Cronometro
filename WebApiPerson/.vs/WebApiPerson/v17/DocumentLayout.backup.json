@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MIsProyectosDeProgramacion\\BackendC\\WebApiPerson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{325352EE-6C51-4988-A385-BA5DAF219D8F}|WebApiPerson\\WebApiPerson.csproj|d:\\misproyectosdeprogramacion\\backendc\\webapiperson\\webapiperson\\services\\temporizadorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325352EE-6C51-4988-A385-BA5DAF219D8F}|WebApiPerson\\WebApiPerson.csproj|solutionrelative:webapiperson\\services\\temporizadorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325352EE-6C51-4988-A385-BA5DAF219D8F}|WebApiPerson\\WebApiPerson.csproj|d:\\misproyectosdeprogramacion\\backendc\\webapiperson\\webapiperson\\services\\cronometroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325352EE-6C51-4988-A385-BA5DAF219D8F}|WebApiPerson\\WebApiPerson.csproj|solutionrelative:webapiperson\\services\\cronometroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325352EE-6C51-4988-A385-BA5DAF219D8F}|WebApiPerson\\WebApiPerson.csproj|d:\\misproyectosdeprogramacion\\backendc\\webapiperson\\webapiperson\\controllers\\temporizadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325352EE-6C51-4988-A385-BA5DAF219D8F}|WebApiPerson\\WebApiPerson.csproj|solutionrelative:webapiperson\\controllers\\temporizadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325352EE-6C51-4988-A385-BA5DAF219D8F}|WebApiPerson\\WebApiPerson.csproj|d:\\misproyectosdeprogramacion\\backendc\\webapiperson\\webapiperson\\models\\temporizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325352EE-6C51-4988-A385-BA5DAF219D8F}|WebApiPerson\\WebApiPerson.csproj|solutionrelative:webapiperson\\models\\temporizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325352EE-6C51-4988-A385-BA5DAF219D8F}|WebApiPerson\\WebApiPerson.csproj|d:\\misproyectosdeprogramacion\\backendc\\webapiperson\\webapiperson\\models\\cronometro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325352EE-6C51-4988-A385-BA5DAF219D8F}|WebApiPerson\\WebApiPerson.csproj|solutionrelative:webapiperson\\models\\cronometro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325352EE-6C51-4988-A385-BA5DAF219D8F}|WebApiPerson\\WebApiPerson.csproj|d:\\misproyectosdeprogramacion\\backendc\\webapiperson\\webapiperson\\hubs\\cronometrohub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325352EE-6C51-4988-A385-BA5DAF219D8F}|WebApiPerson\\WebApiPerson.csproj|solutionrelative:webapiperson\\hubs\\cronometrohub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325352EE-6C51-4988-A385-BA5DAF219D8F}|WebApiPerson\\WebApiPerson.csproj|d:\\misproyectosdeprogramacion\\backendc\\webapiperson\\webapiperson\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{325352EE-6C51-4988-A385-BA5DAF219D8F}|WebApiPerson\\WebApiPerson.csproj|solutionrelative:webapiperson\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325352EE-6C51-4988-A385-BA5DAF219D8F}|WebApiPerson\\WebApiPerson.csproj|d:\\misproyectosdeprogramacion\\backendc\\webapiperson\\webapiperson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325352EE-6C51-4988-A385-BA5DAF219D8F}|WebApiPerson\\WebApiPerson.csproj|solutionrelative:webapiperson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325352EE-6C51-4988-A385-BA5DAF219D8F}|WebApiPerson\\WebApiPerson.csproj|d:\\misproyectosdeprogramacion\\backendc\\webapiperson\\webapiperson\\webapiperson.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{325352EE-6C51-4988-A385-BA5DAF219D8F}|WebApiPerson\\WebApiPerson.csproj|solutionrelative:webapiperson\\webapiperson.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325352EE-6C51-4988-A385-BA5DAF219D8F}|WebApiPerson\\WebApiPerson.csproj|d:\\misproyectosdeprogramacion\\backendc\\webapiperson\\webapiperson\\controllers\\cronometrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325352EE-6C51-4988-A385-BA5DAF219D8F}|WebApiPerson\\WebApiPerson.csproj|solutionrelative:webapiperson\\controllers\\cronometrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325352EE-6C51-4988-A385-BA5DAF219D8F}|WebApiPerson\\WebApiPerson.csproj|d:\\misproyectosdeprogramacion\\backendc\\webapiperson\\webapiperson\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325352EE-6C51-4988-A385-BA5DAF219D8F}|WebApiPerson\\WebApiPerson.csproj|solutionrelative:webapiperson\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325352EE-6C51-4988-A385-BA5DAF219D8F}|WebApiPerson\\WebApiPerson.csproj|d:\\misproyectosdeprogramacion\\backendc\\webapiperson\\webapiperson\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325352EE-6C51-4988-A385-BA5DAF219D8F}|WebApiPerson\\WebApiPerson.csproj|solutionrelative:webapiperson\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325352EE-6C51-4988-A385-BA5DAF219D8F}|WebApiPerson\\WebApiPerson.csproj|d:\\misproyectosdeprogramacion\\backendc\\webapiperson\\webapiperson\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325352EE-6C51-4988-A385-BA5DAF219D8F}|WebApiPerson\\WebApiPerson.csproj|solutionrelative:webapiperson\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325352EE-6C51-4988-A385-BA5DAF219D8F}|WebApiPerson\\WebApiPerson.csproj|d:\\misproyectosdeprogramacion\\backendc\\webapiperson\\webapiperson\\hubs\\temporizadorhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325352EE-6C51-4988-A385-BA5DAF219D8F}|WebApiPerson\\WebApiPerson.csproj|solutionrelative:webapiperson\\hubs\\temporizadorhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325352EE-6C51-4988-A385-BA5DAF219D8F}|WebApiPerson\\WebApiPerson.csproj|d:\\misproyectosdeprogramacion\\backendc\\webapiperson\\webapiperson\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325352EE-6C51-4988-A385-BA5DAF219D8F}|WebApiPerson\\WebApiPerson.csproj|solutionrelative:webapiperson\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325352EE-6C51-4988-A385-BA5DAF219D8F}|WebApiPerson\\WebApiPerson.csproj|d:\\misproyectosdeprogramacion\\backendc\\webapiperson\\webapiperson\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325352EE-6C51-4988-A385-BA5DAF219D8F}|WebApiPerson\\WebApiPerson.csproj|solutionrelative:webapiperson\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CronometroHub.cs",
+              "DocumentMoniker": "D:\\MIsProyectosDeProgramacion\\BackendC\\WebApiPerson\\WebApiPerson\\Hubs\\CronometroHub.cs",
+              "RelativeDocumentMoniker": "WebApiPerson\\Hubs\\CronometroHub.cs",
+              "ToolTip": "D:\\MIsProyectosDeProgramacion\\BackendC\\WebApiPerson\\WebApiPerson\\Hubs\\CronometroHub.cs",
+              "RelativeToolTip": "WebApiPerson\\Hubs\\CronometroHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T05:25:02.434Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TemporizadorService.cs",
+              "DocumentMoniker": "D:\\MIsProyectosDeProgramacion\\BackendC\\WebApiPerson\\WebApiPerson\\Services\\TemporizadorService.cs",
+              "RelativeDocumentMoniker": "WebApiPerson\\Services\\TemporizadorService.cs",
+              "ToolTip": "D:\\MIsProyectosDeProgramacion\\BackendC\\WebApiPerson\\WebApiPerson\\Services\\TemporizadorService.cs",
+              "RelativeToolTip": "WebApiPerson\\Services\\TemporizadorService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T00:51:31.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Temporizador.cs",
+              "DocumentMoniker": "D:\\MIsProyectosDeProgramacion\\BackendC\\WebApiPerson\\WebApiPerson\\Models\\Temporizador.cs",
+              "RelativeDocumentMoniker": "WebApiPerson\\Models\\Temporizador.cs",
+              "ToolTip": "D:\\MIsProyectosDeProgramacion\\BackendC\\WebApiPerson\\WebApiPerson\\Models\\Temporizador.cs",
+              "RelativeToolTip": "WebApiPerson\\Models\\Temporizador.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T23:25:04.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TemporizadorController.cs",
+              "DocumentMoniker": "D:\\MIsProyectosDeProgramacion\\BackendC\\WebApiPerson\\WebApiPerson\\Controllers\\TemporizadorController.cs",
+              "RelativeDocumentMoniker": "WebApiPerson\\Controllers\\TemporizadorController.cs",
+              "ToolTip": "D:\\MIsProyectosDeProgramacion\\BackendC\\WebApiPerson\\WebApiPerson\\Controllers\\TemporizadorController.cs",
+              "RelativeToolTip": "WebApiPerson\\Controllers\\TemporizadorController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T22:12:02.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MIsProyectosDeProgramacion\\BackendC\\WebApiPerson\\WebApiPerson\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiPerson\\appsettings.json",
+              "ToolTip": "D:\\MIsProyectosDeProgramacion\\BackendC\\WebApiPerson\\WebApiPerson\\appsettings.json",
+              "RelativeToolTip": "WebApiPerson\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T00:16:53.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MIsProyectosDeProgramacion\\BackendC\\WebApiPerson\\WebApiPerson\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiPerson\\Program.cs",
+              "ToolTip": "D:\\MIsProyectosDeProgramacion\\BackendC\\WebApiPerson\\WebApiPerson\\Program.cs",
+              "RelativeToolTip": "WebApiPerson\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T00:18:00.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CronometroService.cs",
+              "DocumentMoniker": "D:\\MIsProyectosDeProgramacion\\BackendC\\WebApiPerson\\WebApiPerson\\Services\\CronometroService.cs",
+              "RelativeDocumentMoniker": "WebApiPerson\\Services\\CronometroService.cs",
+              "ToolTip": "D:\\MIsProyectosDeProgramacion\\BackendC\\WebApiPerson\\WebApiPerson\\Services\\CronometroService.cs",
+              "RelativeToolTip": "WebApiPerson\\Services\\CronometroService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T00:16:51.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cronometro.cs",
+              "DocumentMoniker": "D:\\MIsProyectosDeProgramacion\\BackendC\\WebApiPerson\\WebApiPerson\\Models\\Cronometro.cs",
+              "RelativeDocumentMoniker": "WebApiPerson\\Models\\Cronometro.cs",
+              "ToolTip": "D:\\MIsProyectosDeProgramacion\\BackendC\\WebApiPerson\\WebApiPerson\\Models\\Cronometro.cs",
+              "RelativeToolTip": "WebApiPerson\\Models\\Cronometro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T21:01:30.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WebApiPerson.csproj",
+              "DocumentMoniker": "D:\\MIsProyectosDeProgramacion\\BackendC\\WebApiPerson\\WebApiPerson\\WebApiPerson.csproj",
+              "RelativeDocumentMoniker": "WebApiPerson\\WebApiPerson.csproj",
+              "ToolTip": "D:\\MIsProyectosDeProgramacion\\BackendC\\WebApiPerson\\WebApiPerson\\WebApiPerson.csproj",
+              "RelativeToolTip": "WebApiPerson\\WebApiPerson.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAtwBAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-02T05:22:57.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CronometroController.cs",
+              "DocumentMoniker": "D:\\MIsProyectosDeProgramacion\\BackendC\\WebApiPerson\\WebApiPerson\\Controllers\\CronometroController.cs",
+              "RelativeDocumentMoniker": "WebApiPerson\\Controllers\\CronometroController.cs",
+              "ToolTip": "D:\\MIsProyectosDeProgramacion\\BackendC\\WebApiPerson\\WebApiPerson\\Controllers\\CronometroController.cs",
+              "RelativeToolTip": "WebApiPerson\\Controllers\\CronometroController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T21:07:13.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "D:\\MIsProyectosDeProgramacion\\BackendC\\WebApiPerson\\WebApiPerson\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "WebApiPerson\\Controllers\\PersonController.cs",
+              "ToolTip": "D:\\MIsProyectosDeProgramacion\\BackendC\\WebApiPerson\\WebApiPerson\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "WebApiPerson\\Controllers\\PersonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:51:22.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\MIsProyectosDeProgramacion\\BackendC\\WebApiPerson\\WebApiPerson\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "WebApiPerson\\Models\\Person.cs",
+              "ToolTip": "D:\\MIsProyectosDeProgramacion\\BackendC\\WebApiPerson\\WebApiPerson\\Models\\Person.cs",
+              "RelativeToolTip": "WebApiPerson\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:06:06.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\MIsProyectosDeProgramacion\\BackendC\\WebApiPerson\\WebApiPerson\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApiPerson\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\MIsProyectosDeProgramacion\\BackendC\\WebApiPerson\\WebApiPerson\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApiPerson\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA6wBUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:04:03.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TemporizadorHub.cs",
+              "DocumentMoniker": "D:\\MIsProyectosDeProgramacion\\BackendC\\WebApiPerson\\WebApiPerson\\Hubs\\TemporizadorHub.cs",
+              "RelativeDocumentMoniker": "WebApiPerson\\Hubs\\TemporizadorHub.cs",
+              "ToolTip": "D:\\MIsProyectosDeProgramacion\\BackendC\\WebApiPerson\\WebApiPerson\\Hubs\\TemporizadorHub.cs",
+              "RelativeToolTip": "WebApiPerson\\Hubs\\TemporizadorHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T00:55:46.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\MIsProyectosDeProgramacion\\BackendC\\WebApiPerson\\WebApiPerson\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebApiPerson\\WeatherForecast.cs",
+              "ToolTip": "D:\\MIsProyectosDeProgramacion\\BackendC\\WebApiPerson\\WebApiPerson\\WeatherForecast.cs",
+              "RelativeToolTip": "WebApiPerson\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T22:15:20.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\MIsProyectosDeProgramacion\\BackendC\\WebApiPerson\\WebApiPerson\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApiPerson\\Context\\AppDbContext.cs",
+              "ToolTip": "D:\\MIsProyectosDeProgramacion\\BackendC\\WebApiPerson\\WebApiPerson\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "WebApiPerson\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T22:18:40.531Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

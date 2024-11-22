@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "f+FPCrRTMk3HlcaHr/crU1ROJwEIAI6p/a1nO6UQ8yo=",
+  "Source": "WebApiPerson",
+  "BasePath": "_content/WebApiPerson",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApiPerson\\wwwroot",
+      "Source": "WebApiPerson",
+      "ContentRoot": "D:\\MIsProyectosDeProgramacion\\BackendC\\WebApiPerson\\WebApiPerson\\wwwroot\\",
+      "BasePath": "_content/WebApiPerson",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\MIsProyectosDeProgramacion\\BackendC\\WebApiPerson\\WebApiPerson\\wwwroot\\audio\\SonidodeGOKU.wav",
+      "SourceId": "WebApiPerson",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MIsProyectosDeProgramacion\\BackendC\\WebApiPerson\\WebApiPerson\\wwwroot\\",
+      "BasePath": "_content/WebApiPerson",
+      "RelativePath": "audio/SonidodeGOKU.wav",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\audio\\SonidodeGOKU.wav"
+    }
+  ]
+}

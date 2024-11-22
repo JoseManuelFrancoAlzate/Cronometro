@@ -1,0 +1,51 @@
+.h1 {
+    display: flex;
+    border-radius: 500px;
+    border: 10px solid rgb(255, 174, 0);
+    color: blue;
+    width:350px;
+    height:350px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 40px;
+}
+
+.buttonE{
+    background-color: rgb(45, 212, 246);
+    padding: 10px;
+    border-radius: 4px;
+    color: white;
+
+}
+.buttonR{
+    background-color:orange;
+    padding: 10px;
+    border-radius: 4px;
+    margin: 10px;
+    color: white;
+}
+
+.buttonI{
+    background-color:greenyellow;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 4px;
+    color: white;
+}
+
+.buttonP{
+    background-color:rgb(255, 47, 47);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 4px;
+    color: white;
+}
+.title{
+    color:black;
+}
+.divTemporizador{
+
+    margin-top: 120px;
+  
+}
+
